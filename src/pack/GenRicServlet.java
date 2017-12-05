@@ -7,7 +7,7 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.annotation.WebServlet;
-
+//this is edited
 @WebServlet("/Gen")
 public class GenRicServlet extends GenericServlet {
 
