@@ -17,7 +17,7 @@ public class RegistrationServlet extends HttpServlet {
 			throws IOException,ServletException{
 
 
-
+// This is for new branch
 	}
 	public void doPost(HttpServletRequest request,HttpServletResponse response)
 			throws IOException,ServletException{
